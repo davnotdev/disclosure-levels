@@ -2,8 +2,7 @@
 
 > You probably saw something along the lines of "LLM(1)" or "LLM(2)" and thought "What on earth does that mean?"
 
-How we use LLMs can be sorted into categories.  
-When categorized, LLM disclosures work similarly to open source licenses, they communicate the values of the project, how it should be used / contributed to, and its compatibility with other levels / licenses.
+How we use LLMs can be sorted into categories. When categorized, LLM disclosures work similarly to open source licenses, they communicate the values of the project, how it should be used / contributed to, and its compatibility with other levels / licenses.
 
 LLM(0) represents a purely human made project with increasing numbers corresponding to more autonomous use.
 
@@ -34,7 +33,7 @@ Moving forward, I will be using the following categories to describe my projects
 ```md
 ## LLM Disclosure
 
-LLM(0) - This project is human made.
+[LLM(0)](https://github.com/davnotdev/disclosure-levels) - This project is human made.
 
 ```
 
@@ -45,7 +44,7 @@ Zero LLM Use.
 ```md
 
 ## LLM Disclosure
-LLM(1) - This project is assisted with chatbots.
+[LLM(1)](https://github.com/davnotdev/disclosure-levels) - This project is assisted with chatbots.
 
 ```
 
@@ -56,7 +55,7 @@ Use of LLMs to source information, snippets, or filter through data using a prom
 ```md
 ## LLM Disclosure
 
-LLM(1S) - This project assisted with chatbots and LLM static analysis.
+[LLM(1S)](https://github.com/davnotdev/disclosure-levels) - This project assisted with chatbots and LLM static analysis.
 
 ```
 
@@ -67,7 +66,7 @@ Same as LLM(1), but the LLM may read the project and audit for mistakes, bugs, a
 ```md
 ## LLM Disclosure
 
-LLM(2) - This project uses some LLM copiloting with human approval.
+[LLM(2)](https://github.com/davnotdev/disclosure-levels) - This project uses some LLM copiloting with human approval.
 
 ```
 
@@ -78,7 +77,7 @@ LLMs may write to the project, but each step requires human approval.
 ```md
 ## LLM Disclosure
 
-LLM(3) - This project uses some LLM agentic development with human review.
+[LLM(3)](https://github.com/davnotdev/disclosure-levels) - This project uses some LLM agentic development with human review.
 
 ```
 
@@ -90,7 +89,7 @@ LLMs may work directly on the project, but the final result must be reviewed by 
 
 ## LLM Disclosure
 
-LLM(4) - This project uses some LLM agentic development.
+[LLM(4)](https://github.com/davnotdev/disclosure-levels) - This project uses some LLM agentic development.
 
 ```
 
@@ -130,5 +129,5 @@ The definition of "dependencies" can be interpreted by the author.
 
 ## LLM Disclosure
 
-LLM(0) - This project is human made.
+[LLM(0)](https://github.com/davnotdev/disclosure-levels) - This project is human made.
 
