@@ -6,14 +6,16 @@ How we use LLMs can be sorted into categories. When categorized, LLM disclosures
 
 LLM(0) represents a purely human made project with increasing numbers corresponding to more autonomous use.
 
+## Why?
+
 Disclosing and labeling LLM use stands to communicate the following properties: 
 
-1. Communicating Risks and Impacts
+### Communicating Risks and Impacts
 
 Different styles of LLM use bring different risks, whether that be technical, social, or environmental.
 For example, may programmers may consider using LLMs for sourcing information (LLM(1)) to be acceptable while more environmentally conscious programmers may reject it.
 
-2. Communicating Intent
+### Communicating Intent
 
 The LLM use level hints at the intent of a contribution or the purpose of a project.
 For example, a higher LLM use level may hint that a project is a one off tool with little maintenance.
