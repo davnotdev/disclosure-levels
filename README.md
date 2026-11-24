@@ -13,7 +13,8 @@ Disclosing and labeling LLM use stands to communicate the following properties:
 ### Communicating Risks and Impacts
 
 Different styles of LLM use bring different risks, whether that be technical, social, or environmental.
-For example, may programmers may consider using LLMs for sourcing information (LLM(1)) to be acceptable while more environmentally conscious programmers may reject it.
+For example, most programmers likely consider using LLMs for sourcing information (LLM(1)) to be acceptable while more environmentally conscious programmers may reject it.
+Higher levels may raise questions about code quality or contributor effort.
 
 ### Communicating Intent
 
